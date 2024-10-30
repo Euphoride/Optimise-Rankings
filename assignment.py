@@ -70,7 +70,7 @@ def simulate_assignment(your_ranking, df, projects, K=6, num_simulations=10):
 
     assignment_counts = {p: 0 for p in projects}
     for ranking in other_rankings:
-        all_rankings = ranking + [your_ranking]
+        all_rankings = ranking + [your_ranking[:6]]
         your_index = len(all_rankings) - 1
         cost_matrix = construct_cost_matrix(all_rankings, your_index, projects, K)
         assignments = hungarian_algorithm_assignment(cost_matrix)
@@ -122,7 +122,7 @@ def simulate_assignment_probability(best_ranking, df, projects, K=6, num_simulat
 
     assignment_counts = {p: 0 for p in projects}
     for ranking in other_rankings:
-        all_rankings = ranking + [best_ranking]
+        all_rankings = ranking + [best_ranking[:6]]
         your_index = len(all_rankings) - 1
         cost_matrix = construct_cost_matrix(all_rankings, your_index, projects, K)
         assignments = hungarian_algorithm_assignment(cost_matrix)
@@ -151,10 +151,12 @@ def main(project_rankings_path, personal_ranking_path):
     final_probabilities = simulate_assignment_probability(best_ranking, df, projects, K=6, num_simulations=50)
     prob_df = pd.DataFrame(list(final_probabilities.items()), columns=['Project', 'Assignment Probability']).sort_values(
         by='Assignment Probability', ascending=False)
-    print("Optimal Ranking:", best_ranking)
-    print("Optimal Expected Utility:", best_expected_utility)
-    print("Approximate Assignment Probabilities Under This Ranking")
-    print(prob_df)
+    print("\nOptimal Ranking:")
+    print(best_ranking[:6])
+    print("\nOptimal Expected Utility:")
+    print(f"{best_expected_utility:.2f}")
+    print("\nApproximate Assignment Probabilities Under This Ranking:")
+    print(prob_df.head())
 
 if __name__ == "__main__":
     project_rankings_path = sys.argv[1]
