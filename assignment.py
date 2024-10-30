@@ -98,7 +98,7 @@ def simulated_annealing_optimize(initial_ranking, utilities, df, projects, K=6, 
     best_E_U = current_E_U
     T = initial_temp
 
-    for iteration in range(num_iterations):
+    for _ in range(num_iterations):
         neighbor_ranking = mutate_ranking(current_ranking)
         neighbor_E_U = calculate_expected_utility(simulate_assignment(neighbor_ranking, df, projects, K, num_simulations), utilities)
         
@@ -145,8 +145,8 @@ def main(project_rankings_path, personal_ranking_path):
         K=6, 
         initial_temp=1000, 
         cooling_rate=0.95, 
-        num_iterations=100, 
-        num_simulations=100
+        num_iterations=100,             # Play with this value
+        num_simulations=100             # and this value to vary the accuracy of your simulation
     )
     final_probabilities = simulate_assignment_probability(best_ranking, df, projects, K=6, num_simulations=50)
     prob_df = pd.DataFrame(list(final_probabilities.items()), columns=['Project', 'Assignment Probability']).sort_values(
