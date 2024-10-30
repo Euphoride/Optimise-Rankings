@@ -1,0 +1,248 @@
+project,ranking
+Automated Assumption Refinement for Autonomous Systems (two projects),1
+Automated Software Specification Repair using Large Language Models,2
+Reactive synthesis in collaborative environments,3
+Repairing Specifications with Unavoidable Boundary Conditions,4
+Symbolic Learning Approach to Requirements Classification,5
+Gaussian Belief Propagation for Distributed Optimization,6
+Data driven formative feedback on Lambda Feedback,7
+Develop an elective selection platform for the Business School,8
+Anomaly Detection and Regulatory Compliance in Gas Networks,9
+Counterexamples as Explanations,10
+Evaluating LLM Role-Playing Consistency Through Formal Verification in Improvisational Settings,11
+Finite Automata for the Verification of Strategic Abilities of Autonomous Agents,12
+Leveraging Dynamics Models for Single-shot Task Generalization in Reinforcement Learning,13
+Neuro-Symbolic Policy Learning and Representation for Interpretable and Formally-Verifiable Reinforcement Learning,14
+Policy and Value Function Compositionality for Safe Reinforcement Learning,15
+Reasoning about Stochastic Games of Imperfect Information,16
+Reinforcement Learning for Infinite-horizon Counter Objectives,17
+The Trade-off between Exploration and Exploitation in Multi-agent Reinforcement Learning,18
+The Verification of Multi-agent Hybrid Systems,19
+6D Pose Graph Optimization via Topological Deep Learning,20
+Deep Learning on Topological Domains,21
+Generative Flow Matching Models for Human Pose Modeling,22
+"Large Language Models, Hashing and Error Correction (jointly with AWS)",23
+Mixture of Experts Design for Large Language Modeling,24
+UV-free high-resolution surface texture generation,25
+Computing the noise threshold of quantum error correcting codes,26
+Neural belief propagation for quantum error correction,27
+Quantum belief propagation for random quantum maxcut,28
+Scaling laws in learning properties of quantum systems at thermal equilibrium,29
+Algorithms for the LINE scientific library (Java),30
+AI Assistant for Software Development Teams,31
+Double-Blind Code Review,32
+Instant Walking Skeleton,33
+Kotlin Playground ++,34
+LambdaFeedback - providing feedback on student code exercises,35
+Collaborative early exit inference at the edge,36
+Better than ELO ranking for MOBA games (e.g. LoL),37
+Challenging the AGI Hype: A New Benchmark for LLMs,38
+Tracking the Buzz: Honey Bee Computer Vision Tracking,39
+Algorithmic Complexity of Machine Learning Models,40
+Nearest Neighbour Search through Diffusion Models,41
+Improving Biological Foundation Models using Curriculum Learning through Quality-Diversity Reinforcement Learning (Industrial collaboration Helical),42
+Unsupervised Quality-Diversity Reinforcement Learning,43
+Are ML models leaking information about their training data?,44
+Quantifying Privacy Risks in Parameter-Efficient Fine-Tuning (PEFT) of Large Language Models (LLMs),45
+Understanding and analysing concurrency bugs in machine learning compilers,46
+Verifying futex implementations using model checking,47
+More Declarative Proving with Dafny,48
+Reasoning about Verona Concurrency,49
+What does GitHub do,50
+Customizable 3D Avatar Generation Platform,51
+Enhancing 3D Face Reconstruction with StyleGANv3-Based Texture Decoding,52
+Now Say It Differently: Perturbation-Testing of LLM Robustness,53
+Reasoning about Humour: It's No Laughing Matter,54
+Unsupervised Humour Style Transfer: Advancing Computational Understanding of Humour Styles,55
+Leveraging Vision-Language Models to contextualise natural human gaze and intentions for robotic human augmentation,56
+Off-Policy Policy Estimation for Robot control from Human behavioural data,57
+Abstraction in Incorrectness Logics,58
+Compositional Reasoning about Concurrent Programs,59
+Gillian Certification,60
+Gillian Verification,61
+Matching for Compositional Symbolic Execution,62
+Mechanised Semantics of the W3C WebAssembly Standard,63
+Rethinking Digital Network Hubs by Learning from Mycelium,64
+Counterfactual data augmentation for robustness to artefacts in digital mammography,65
+Machine Learning for Ocean Conservation: Active Learning for Marine Species Detection,66
+"Semi-Supervised Atlas-ISTN: Joint Image Segmentation, Registration, and Atlas-Construction",67
+Assessing privacy and security vulnerabilities in Meta Glass,68
+Guaranteed Realm Destruction in Arm CCA,69
+Intelligent Neural Networks for Internet of Things Privacy Applications,70
+Optimizing Realm Execution Environments for Machine Learning Tasks,71
+Towards Scalable and Secure Auditing: Zero-Knowledge Proofs in Deep Learning Models,72
+Verifiable Machine Unlearning,73
+DNA/XNA Storage & Computing,74
+Protein Computing,75
+Consistent and Justifiable LLM Outputs via Computational Argumentation,76
+Explainable AI for LLM on Textual Data: Leveraging Mechanistic Interpretability Techniques for Generating Counterfactual Explanations with Validity Guarantees,77
+ChatGPT for Robotics,78
+Robot Policy Learning with Active Vision,79
+Deep Learning–Based Segmentation and Quantification in Kidney Transplant Pathology,80
+Attention for branch prediction by training on profiling-time traces,81
+Data prefetching based on per-page access history,82
+Improving the reliability of LLVM analysis for compiler-to-CPU memory dependency communication,83
+LLVM analysis for compiler-to-CPU memory dependency communication,84
+Loop Cloning Co-Design for Memory Dependence Prediction,85
+"Non-speculative inspector-executor parallelisation for multicore, SMT and clustered microarchitectures",86
+Optimal sampling of benchmark traces in microarchitecture simulation experiments,87
+Processor architecture for on-sensor vision,88
+A Novel Blockchain Games Ecosystem (Centre for Cryptocurrency Research and Engineering),89
+AI-driven Deception: Using Large Language Models for Scalable Fraud,90
+Automated Mapping and Visualisation of UK Financial Services Research Network (UKFin+),91
+Dragon's LLM: Streamlining Innovation with AI (Propel Teams),92
+"FairOnChain: Fair and modular blockchain data infrastructure for open science (The Centre for Cryptocurrency Research and Engineering, EPFL, Ecole Polytechnique)",93
+FALCON-based Quantum-safe Blockchain Implementation (Centre for Cryptocurrency Research and Engineering),94
+"Incoercible sales of physical goods with cryptocurrencies (Centre for Cryptocurrency Research and Engineering, Orfeas Thyfronitis Litos)",95
+Privacy-preserving Information Sharing of Confidential Information (Centre for Cryptocurrency Research and Engineering),96
+VeriRef: Using AI to Detect Misinformation (DeepSearchLabs),97
+Adaptive Sensor Modality Weighting in Visual-Inertial Odometry for Robot Localization in Dynamic Environments,98
+Forward-Forward Algorithm for Continual Learning as Applied to Aerial Robot Control,99
+Go with the Flow: A Never-ending Learning Approach for Aerial Robots,100
+Surface Learning with Multi Sensors for Aerial Robots,101
+Vision-Based Trajectory Prediction for Autonomous Robots: Extending Sparse Model Identification,102
+Where to Perch the Drone in Tropical Forest?,103
+Accelerating Congestion Control Algorithms Using Emerging Hardware,104
+Accelerating L7 load balancing with in-network compute,105
+Accelerating Transaction Processing for Central Bank Digital Currencies,106
+Analyzing Blockchains for Fun and Profit,107
+Attested Execution of Cloud Workloads,108
+Load-Aware L4 Load Balancing for Microservices and Cloud Native Systems,109
+Low-latency Checkpointing for Deterministically Parallel Applications,110
+microBPF: Using eBPF for microcontroller compartmentalization,111
+Operating System Design for Trusted Execution Environments,112
+Rendering Network Namespaces Obsolete Using eBPF,113
+Secure Code Evaluation in Serverless Functions,114
+Understanding and Taming Control Plane Latencies in Microservice Environments,115
+Object Centric Visual Debates,116
+A Simulated Radio Station,117
+Cracking Candy Crush,118
+Detecting AI Generated Music,119
+Research Fraud Network Detection,120
+Selling T-Shirts,121
+GPU-enabled Neural Network Verification based on Semidefinite Programming Techniques,122
+Neural Network Verification for Time Series Forecasting.,123
+Towards ensuring fairness in certified training,124
+Verification of liquid neural networks,125
+Verification of Neural Networks against specifications in the latent space.,126
+Verification of transformer-based neural networks,127
+Accelerate Interpretable Deep Neural Networks for Medical Imaging,128
+Accelerating Real-time Adaptive Radiotherapy on the UK’s First MR-Linac,129
+Agent-Based Modelling for Fire Sales,130
+Causal Structure Learning for Market Crash Analysis,131
+Codifying Optimisation Strategies by Meta-Programming for Machine Learning and Other Applications,132
+Enabling Efficient LLM Inference,133
+Fine-Tuning LLMs for Exchange Rate Risk Hedging through Financial News Analysis,134
+Machine Learning for Next-Generation Physics Experiments,135
+Maximising heterogeneous resource utilisation of FPGAs,136
+A novel design methodology for Security and Safety with model-based systems engineering,137
+Characterising the attack surface of machine learning models,138
+Differential approaches for efficient attack-graph generation,139
+Dynamic Network Segmentation for Cyber-Defence,140
+Generative methods for Adversarially Testing Machine Learning Models,141
+Integrating LLMs with attack emulation for automated red-teaming,142
+Learning and Modelling Legacy Protocols,143
+Learning Causality in Cyber Physical Systems,144
+Other Projects in CyberSecurity,145
+Producing Automated Assurance Case Fragments from combined Security and Safety Analysis,146
+SysML 2.0 tools for security and safety modelling,147
+The Vulnerability and Defence of Embedded Machine Learning,148
+Detecting vulnerabilities in source code using LLMs,149
+Randomness in Deep Learning for Security,150
+Unsupervised anomaly detection for Web access logs,151
+Data Visualisation based on Conceptual Modelling,152
+Map It: Tools to support the easy visualisation of data as maps,153
+Op-Art Generator and Animator,154
+Relational Algebra and SQL Query Visualisation,155
+Semanitic Web Schema and Data Visualiser,156
+What makes London traffic change?,157
+An optimisation perspective on multivariate information theory for neural computation,158
+Building and interpreting models for electronic health records during cannabis therapy,159
+Explaining brain organisation through spatially embedded deep neural networks,160
+Leveraging ML to innovate optimization frameworks for brain simulations,161
+Dynamic multiagent decision-making via extensive-form polymatrix games,162
+Fast variational inequality solvers for multiagent decision making,163
+Multiagent decision-making: fast equilibrium computation via polymatrix games,164
+Propose your own project,165
+Safe guaranteed AI for control,166
+A New Scalable Runtime for LLM Training and Inference,167
+C to Rust Compiler Using Large Language Models (LLM),168
+Designing a Portable OS with Native WebAssembly Binaries,169
+Embedded Intravisor using Hardware Memory Capabilities,170
+Implementing Modern DL Algorithms in a Novel Training System,171
+"Projects in Large-Scale Distributed Systems, Operating Systems and Databases",172
+Supercomputing for the Masses with Serverless WebAssembly and OpenMP,173
+Transparent Migration of Serverless Functions in Cloud,174
+Apply DBMS Analytics Techniques to Large-Scale Crowd/Physics Simulation in Unreal Engine,175
+Black-Box Query Optimization: Query Plan Exploration,176
+Exploring Bottlenecks and Optimisations for Large Language Models and Vector Databases in RA-LLMs,177
+GNNs for Black-Box Database Query Cost Estimation,178
+Wisent++: A C++ Library for Composability-Enabled Data File Formats,179
+Analyzing the computational role of complex representations in RNNs,180
+Evaluative AI via Argumentation for Interactive Explanation,181
+Explainable Reinforcement Learning for Formula One Race Strategy,182
+Argumentative Claim-Based Explanations,183
+Graph Neural Networks for Approximate Argumentative Reasoning and Causal Discovery,184
+own proposalImplementing Unsaturated Types In Haskell,185
+Conversational Robots for People with Dementia,186
+Inverse reinforcement learning for Vehicle-to-Grid (V2G) charging modelling,187
+Analysing relationships and disagreements between explanation methods for deep neural models,188
+Arguing with Neural Networks based on Explanations,189
+Enhancing Brain Tumour Prognosis with Neuro-Argumentative Learning and Multi-Modal Patient Data from a Real-World Wearable Clinical Trial,190
+Neuro-Argumentative Machine Learning with Legal Text,191
+Piecewise linear softmax approximations for tighter machine learning certification,192
+Call by Value and Call by Name for Classical Calculi with Implication and Negation,193
+Call by Value for Lambda Mu with Negation,194
+Predicates for Featherweight Java,195
+Types for Featherweight Java with control,196
+A cloud FPGA runtime for practical multi-tenant security,197
+A cloud service framework with hardware-software co-design to improve application performance and security,198
+A distributed application runtime for the future data center,199
+A distributed caching layer for the future data center,200
+A distributed file system service for the future data center,201
+A new container image mechanism to optimize performance and memory density of cloud VMs,202
+A new formal method to verify security in multi-tenant cloud FPGAs,203
+A new framework to make application services secure-by-construction in the future cloud,204
+A new hardware extension for implementing OS privilege levels with optimal performance,205
+A new hardware/software co-design to accelerate memory capability revocation in the CHERI architecture,206
+A new set of distributed system call optimizations for the operating system of future data centers,207
+A new simulation approach for measuring application performance and interference in the cloud,208
+A new tool for universal dynamic program modification and analysis,209
+A practical method to formally analyse the security properties of cloud FPGAs,210
+A remote block storage service for the future data center,211
+A scalable protocol for distributed authorization in the future data center,212
+A service to access remote GPUs in future disaggregated data centers,213
+A universal load-balancing service for the future data center,214
+A user-level network stack for zero-copy communication in cloud micro-services,215
+Accelerating LLM inference in the future data center,216
+Adding self-optimizing concurrency to a Rust-based application runtime,217
+Adding self-optimizing concurrency to a secure operating system for the future data center,218
+An automated tool to help optimize cache coherency performance,219
+Analysing the limits of compute performance via instruction-level parallelism,220
+Using eBPF to accelerate the operating system of the future data center,221
+Augmented Reality Whiteboard Coding,222
+Automated Story Illustration,223
+Automated Video Editing,224
+Machine Learning Auto-Marker,225
+Reliable Concurrency Testing Framework,226
+RTFM - Reinforcement Training for Manuals,227
+Social Event Attendance Capture - Person Recognition,228
+Visualising Decisions,229
+Voice Recognition Escape Room,230
+Ensemble Approaches to Improve Data Poisoning Guarantees,231
+Ensemble Approaches to Improve Predictive Privacy Guarantees,232
+LLMs: Curating Data Through Training Dynamics,233
+Provably Fair Data Imputation in Machine Learning,234
+Who does dataset specific private prediction protect?,235
+A Probabilistic Dragon Compiler,236
+Optimisation in Quantum Computation,237
+Probabilistic Couplings,238
+Probabilistic Programming,239
+Program Synthesis and Optimisation Tools,240
+Quantum Automata,241
+RM Compiler,242
+Embedded Domain-Specific Language for Typesetting,243
+Improving the asymptotics of `precedence` and choice in Parsley,244
+Mdoc for Haskell,245
+Oregano: ahead-of-time compilation for regular expressions,246
+Static optimisations of a staged parser-combinator library,247
